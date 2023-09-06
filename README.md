@@ -53,6 +53,11 @@ cd v0.13.2/accelerate-0.13.2; pip install -e .; cd ../..
 ```
 git clone https://github.com/ClementRomac/lamorel.git; cd lamorel/lamorel; pip install -e .; cd ../..
 ```
+8. **Install babyai-text**
+```
+pip install -e babyai_text
+```
+
 
 ## Launch
 Please use Lamorel along with our [configs](experiments/configs).
