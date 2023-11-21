@@ -7,4 +7,5 @@ notebooks/*
 !notebooks/*.ipynb
 /old_slurms/
 .idea
-.DS_Store
+.DS_Storelamorel
+lamorel
